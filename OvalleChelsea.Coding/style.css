@@ -1,0 +1,32 @@
+body {
+
+  padding: 20px;
+  padding-top: 40;
+  background-color: #fff;
+  font-family: 'Roboto', sans-serif;
+
+}
+
+h1{
+
+}
+a:hover{
+  color: yellow;
+}
+
+.choice-light{
+  background-color: #8b0000;
+  color: #fff;
+}
+.choice-dark{
+  background-color: navy;
+  color: #fff;
+}
+.eFirst{
+  background-color: #8b0000;
+  color: #fff;
+}
+.eSec{
+  background-color: navy;
+  color: #fff;  
+}
